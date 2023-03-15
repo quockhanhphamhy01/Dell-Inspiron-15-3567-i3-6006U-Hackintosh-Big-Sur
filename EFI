@@ -1,7 +1,0 @@
-echo "# Dell-Inspiron-15-3567-Hackintosh-Big-Sur" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/quockhanhphamhy01/Dell-Inspiron-15-3567-Hackintosh-Big-Sur.git
-git push -u origin main
